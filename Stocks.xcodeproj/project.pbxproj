@@ -15,6 +15,9 @@
 		3F42817827078946004595F4 /* TopStoriesNewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F42817727078946004595F4 /* TopStoriesNewsViewController.swift */; };
 		3F42817A27078963004595F4 /* SearchResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F42817927078963004595F4 /* SearchResultsViewController.swift */; };
 		3F42817C2707897F004595F4 /* StockDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F42817B2707897F004595F4 /* StockDetailsViewController.swift */; };
+		3F42818027078E37004595F4 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F42817F27078E37004595F4 /* APICaller.swift */; };
+		3F42818227078E84004595F4 /* PersistenceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F42818127078E84004595F4 /* PersistenceManager.swift */; };
+		3F42818427078F19004595F4 /* HapticsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F42818327078F19004595F4 /* HapticsManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +31,9 @@
 		3F42817727078946004595F4 /* TopStoriesNewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopStoriesNewsViewController.swift; sourceTree = "<group>"; };
 		3F42817927078963004595F4 /* SearchResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsViewController.swift; sourceTree = "<group>"; };
 		3F42817B2707897F004595F4 /* StockDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockDetailsViewController.swift; sourceTree = "<group>"; };
+		3F42817F27078E37004595F4 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
+		3F42818127078E84004595F4 /* PersistenceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistenceManager.swift; sourceTree = "<group>"; };
+		3F42818327078F19004595F4 /* HapticsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +105,9 @@
 		3F42817527078866004595F4 /* Managers */ = {
 			isa = PBXGroup;
 			children = (
+				3F42817F27078E37004595F4 /* APICaller.swift */,
+				3F42818127078E84004595F4 /* PersistenceManager.swift */,
+				3F42818327078F19004595F4 /* HapticsManager.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -182,9 +191,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F42818427078F19004595F4 /* HapticsManager.swift in Sources */,
 				3F42817C2707897F004595F4 /* StockDetailsViewController.swift in Sources */,
 				3F428163270787FC004595F4 /* WatchListViewController.swift in Sources */,
 				3F42817827078946004595F4 /* TopStoriesNewsViewController.swift in Sources */,
+				3F42818227078E84004595F4 /* PersistenceManager.swift in Sources */,
+				3F42818027078E37004595F4 /* APICaller.swift in Sources */,
 				3F42815F270787FC004595F4 /* AppDelegate.swift in Sources */,
 				3F428161270787FC004595F4 /* SceneDelegate.swift in Sources */,
 				3F42817A27078963004595F4 /* SearchResultsViewController.swift in Sources */,
