@@ -2,7 +2,7 @@
 //  PanelViewController.swift
 //  Stocks
 //
-//  Created by yupana on 10/3/21.
+//  Created by volkan on 10/3/21.
 //
 
 import UIKit

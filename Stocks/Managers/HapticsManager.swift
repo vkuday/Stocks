@@ -2,7 +2,7 @@
 //  HapticsManager.swift
 //  Stocks
 //
-//  Created by yupana on 10/1/21.
+//  Created by volkan on 10/1/21.
 //
 
 import Foundation

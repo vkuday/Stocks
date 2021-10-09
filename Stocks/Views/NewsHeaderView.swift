@@ -2,7 +2,7 @@
 //  NewsHeaderView.swift
 //  Stocks
 //
-//  Created by yupana on 10/6/21.
+//  Created by volkan on 10/6/21.
 //
 
 import UIKit
