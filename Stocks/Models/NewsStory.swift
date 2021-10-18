@@ -2,7 +2,7 @@
 //  NewsStory.swift
 //  Stocks
 //
-//  Created by yupana on 10/7/21.
+//  Created by volkan on 10/7/21.
 //
 
 import Foundation

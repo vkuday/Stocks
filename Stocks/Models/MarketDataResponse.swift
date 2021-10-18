@@ -2,7 +2,7 @@
 //  MarketDataResponse.swift
 //  Stocks
 //
-//  Created by yupana on 10/12/21.
+//  Created by volkan on 10/12/21.
 //
 
 import Foundation

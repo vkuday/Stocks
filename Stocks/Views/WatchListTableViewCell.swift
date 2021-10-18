@@ -2,7 +2,7 @@
 //  WatchListTableViewCell.swift
 //  Stocks
 //
-//  Created by yupana on 10/13/21.
+//  Created by volkan on 10/13/21.
 //
 
 import UIKit
