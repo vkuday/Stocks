@@ -22,6 +22,8 @@
 		3F4281882707BCB8004595F4 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4281872707BCB8004595F4 /* Extensions.swift */; };
 		3F42818A2707C2C9004595F4 /* SearchResultTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4281892707C2C9004595F4 /* SearchResultTableViewCell.swift */; };
 		3F42818C2707D2D6004595F4 /* SearchResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F42818B2707D2D6004595F4 /* SearchResponse.swift */; };
+		3F48FD27272CBB1100EB03C6 /* FinancialMetricsResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F48FD26272CBB1100EB03C6 /* FinancialMetricsResponse.swift */; };
+		3F48FD29272CBEC600EB03C6 /* StockDetailHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F48FD28272CBEC600EB03C6 /* StockDetailHeaderView.swift */; };
 		3F8C412B270A53F900111E3F /* PanelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8C412A270A53F900111E3F /* PanelViewController.swift */; };
 		3F8C413F270EC8CB00111E3F /* NewsHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8C413E270EC8CB00111E3F /* NewsHeaderView.swift */; };
 		3F8C41432710168F00111E3F /* NewsStory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8C41422710168F00111E3F /* NewsStory.swift */; };
@@ -48,6 +50,8 @@
 		3F4281872707BCB8004595F4 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		3F4281892707C2C9004595F4 /* SearchResultTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultTableViewCell.swift; sourceTree = "<group>"; };
 		3F42818B2707D2D6004595F4 /* SearchResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResponse.swift; sourceTree = "<group>"; };
+		3F48FD26272CBB1100EB03C6 /* FinancialMetricsResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinancialMetricsResponse.swift; sourceTree = "<group>"; };
+		3F48FD28272CBEC600EB03C6 /* StockDetailHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockDetailHeaderView.swift; sourceTree = "<group>"; };
 		3F8C412A270A53F900111E3F /* PanelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PanelViewController.swift; sourceTree = "<group>"; };
 		3F8C413E270EC8CB00111E3F /* NewsHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsHeaderView.swift; sourceTree = "<group>"; };
 		3F8C41422710168F00111E3F /* NewsStory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsStory.swift; sourceTree = "<group>"; };
@@ -109,6 +113,7 @@
 				3F42818B2707D2D6004595F4 /* SearchResponse.swift */,
 				3F8C41422710168F00111E3F /* NewsStory.swift */,
 				3FC9B9882716A6A5005D5EE3 /* MarketDataResponse.swift */,
+				3F48FD26272CBB1100EB03C6 /* FinancialMetricsResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -122,6 +127,7 @@
 				3F8C41442711619700111E3F /* NewsStoryTableViewCell.swift */,
 				3FC9B98A271794BF005D5EE3 /* WatchListTableViewCell.swift */,
 				3FC9B98C271796D9005D5EE3 /* StockChartView.swift */,
+				3F48FD28272CBEC600EB03C6 /* StockDetailHeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -298,9 +304,11 @@
 				3F8C413F270EC8CB00111E3F /* NewsHeaderView.swift in Sources */,
 				3F8C41432710168F00111E3F /* NewsStory.swift in Sources */,
 				3F8C41452711619700111E3F /* NewsStoryTableViewCell.swift in Sources */,
+				3F48FD29272CBEC600EB03C6 /* StockDetailHeaderView.swift in Sources */,
 				3FC9B98D271796D9005D5EE3 /* StockChartView.swift in Sources */,
 				3F4281882707BCB8004595F4 /* Extensions.swift in Sources */,
 				3F42818027078E37004595F4 /* APICaller.swift in Sources */,
+				3F48FD27272CBB1100EB03C6 /* FinancialMetricsResponse.swift in Sources */,
 				3F42818C2707D2D6004595F4 /* SearchResponse.swift in Sources */,
 				3F42815F270787FC004595F4 /* AppDelegate.swift in Sources */,
 				3F428161270787FC004595F4 /* SceneDelegate.swift in Sources */,
